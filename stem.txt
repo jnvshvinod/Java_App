@@ -1,0 +1,51 @@
+ID:
+ST_UC_01
+ST_UC_02
+ST_UC_03
+ST_UC_04
+ST_UC_05
+ST_UC_06
+ST_UC_07
+ST_UC_08
+ST_UC_09
+ST_UC_10
+ST_UC_11
+ST_UC_12
+ST_UC_13
+ST_UC_14
+ST_UC_15
+ST_UC_16
+ST_UC_17
+ST_UC_18
+ST_UC_19
+ST_UC_20
+ST_UC_21
+ST_UC_22
+
+
+Description
+Admin- To authenticate the user to login to the system.
+Admin- To add new Department
+Admin- To add new course
+Admin- To view Tutors
+Admin- To accept new tutors
+Admin- To view Students
+Admin- To schedule slots for appointments
+Admin- To accept/reject Tutor requests
+Admin- To view Student requests
+Admin- To view Student as Tutor requests
+Admin- To view enquiries
+Tutor- To confirm Slots
+Tutor- To view appointments
+Tutor- To raise a request to admin from tutor
+Tutor- To update profile
+Tutor- To change password
+Student- To book appointment
+Student- To raise request to admin
+Student- To view appointments
+Student- To update profile
+Student-To change password
+User- To Contact Admin for enquiry
+
+
+
